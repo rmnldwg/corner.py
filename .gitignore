@@ -10,3 +10,4 @@ test_figures
 !corner/tests/baseline_images/*/*.png
 .pytest_cache
 corner_version.py
+.venv
